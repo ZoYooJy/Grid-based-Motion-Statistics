@@ -1,0 +1,3 @@
+/home/zyj/MyWork/myGMS/build/CMakeFiles/rebuild_cache.dir
+/home/zyj/MyWork/myGMS/build/CMakeFiles/edit_cache.dir
+/home/zyj/MyWork/myGMS/build/CMakeFiles/myGMS.dir
